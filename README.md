@@ -1,0 +1,2 @@
+# firendly_nginx_http_error_page
+整理一份更友好Nginx错误页面
